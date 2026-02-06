@@ -1,0 +1,68 @@
+
+> sarviz@0.1.0 lint
+> eslint
+
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\actions\growth-plan.ts
+   4:30  warning  'GrowthPlanData' is defined but never used         @typescript-eslint/no-unused-vars
+  13:19  warning  'existingPlan' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  29:25  warning  'error' is assigned a value but never used         @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\app\(auth)\login\page.tsx
+  33:18  warning  'err' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\app\(auth)\signup\page.tsx
+  33:18  warning  'err' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\app\(dashboard)\page.tsx
+  5:10  warning  'ArrowUpRight' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\app\(dashboard)\seo\page.tsx
+  16:10  warning  'Textarea' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\components\features\campaigns\campaign-form.tsx
+  9:5  warning  'CardFooter' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\components\features\campaigns\campaign-list.tsx
+   2:10  warning  'Badge' is defined but never used        @typescript-eslint/no-unused-vars
+   3:10  warning  'Edit2' is defined but never used        @typescript-eslint/no-unused-vars
+  21:5   warning  'Table' is defined but never used        @typescript-eslint/no-unused-vars
+  22:5   warning  'TableBody' is defined but never used    @typescript-eslint/no-unused-vars
+  23:5   warning  'TableCell' is defined but never used    @typescript-eslint/no-unused-vars
+  24:5   warning  'TableHead' is defined but never used    @typescript-eslint/no-unused-vars
+  25:5   warning  'TableHeader' is defined but never used  @typescript-eslint/no-unused-vars
+  26:5   warning  'TableRow' is defined but never used     @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\components\features\crm\lead-board.tsx
+  14:5   warning  'Table' is defined but never used         @typescript-eslint/no-unused-vars
+  15:5   warning  'TableBody' is defined but never used     @typescript-eslint/no-unused-vars
+  16:5   warning  'TableCell' is defined but never used     @typescript-eslint/no-unused-vars
+  17:5   warning  'TableHead' is defined but never used     @typescript-eslint/no-unused-vars
+  18:5   warning  'TableHeader' is defined but never used   @typescript-eslint/no-unused-vars
+  19:5   warning  'TableRow' is defined but never used      @typescript-eslint/no-unused-vars
+  40:10  warning  'Badge' is defined but never used         @typescript-eslint/no-unused-vars
+  42:55  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\components\features\growth\growth-plan-viewer.tsx
+    5:24  warning  'ChevronDown' is defined but never used   @typescript-eslint/no-unused-vars
+    5:37  warning  'ChevronUp' is defined but never used     @typescript-eslint/no-unused-vars
+    9:11  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:60  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:61  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:57  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\components\features\onboarding\onboarding-wizard.tsx
+  4:10  warning  'useRouter' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\components\ui\textarea.tsx
+  5:18  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\middleware.ts
+  20:58  warning  'options' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\shiva\.gemini\antigravity\scratch\sarviz\src\services\ai-growth-service.ts
+  20:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+??? 35 problems (8 errors, 27 warnings)
+
