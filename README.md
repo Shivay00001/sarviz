@@ -1,5 +1,7 @@
 # Sarviz - AI Business Growth Platform
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Sarviz is a production-ready MVP SaaS designed to help local businesses grow through AI-driven automation. It includes features for growth planning, ads management, lead CRM, and performance analytics.
 
 ## 🚀 Features
